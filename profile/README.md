@@ -57,7 +57,7 @@ to ensure confidentiality and security.
 
 📧 Email: contact@falconixsystems.com  
 🌍 Location: India  
-👨‍💻 Founder & Lead Developer: Sheikh Mohideen
+👨‍💻 Founder & Lead Developer: Sheikh Mohideen  
 🌐 Website: https://www.falconixsystems.com 
 
 ---
